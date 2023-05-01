@@ -2,10 +2,10 @@
   "updateTime": 1682919926763,
   "modules": [
     {
-      "tag": "模组标签1",
-      "name": "模组名称1",
-      "author": "模组作者1",
-      "url": "https://模组下载网址.com/模组.apk",
+      "tag": "test",
+      "name": "测试",
+      "author": "HZH",
+      "url": "https://aocxtkb.github.io/apk/NativeGame.apk",
       "version": 1
     }
   ]

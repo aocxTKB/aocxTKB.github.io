@@ -1,0 +1,12 @@
+{
+  "updateTime": 114514,
+  "modules": [
+    {
+      "tag": "模组标签1",
+      "name": "模组名称1",
+      "author": "模组作者1",
+      "url": "https://模组下载网址.com/模组.apk",
+      "version": 1
+    }
+  ]
+}

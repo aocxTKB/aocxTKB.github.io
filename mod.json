@@ -1,13 +1,15 @@
 {
-  "updateTime": 1682919926763,
   "modules": [
     {
-      "tag": "test",
-      "name": "测试",
-      "author": "HZH",
-      "iconUrl": "https://aocxtkb.github.io/icon/NativeGame.png",
+      "id": 0,
+      "name": "Age of History II",
+      "author": "Łukasz Jakowski",
       "url": "https://aocxtkb.github.io/apk/NativeGame.apk",
-      "version": 1
+      "web": "http://www.ageofcivilizationsgame.com",
+      "qq": "",
+      "version": "1.01415_ELA",
+      "updateTime": 20181229,
+      "fileLength": 0
     }
   ]
 }

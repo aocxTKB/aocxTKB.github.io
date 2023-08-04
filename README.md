@@ -1,4 +1,3 @@
-# aocxTKB.github.io
 ```java
 package age.of.civilizations2.jakowski.lukasz;
 
@@ -33,7 +32,3 @@ class CFG() {
     }
 }
 ```
-| 表头  | 表头  |
-|-----|-----|
-| 单元格 | 单元格 |
-| 单元格 | 单元格 |
